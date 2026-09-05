@@ -1,0 +1,261 @@
+[ {
+  "settlementId" : "stl_0001",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 1,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0002",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 2,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0003",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 3,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0004",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 4,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0005",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 5,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0006",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 6,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0007",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 7,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0008",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 8,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0009",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 9,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0010",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 10,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0011",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 11,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0012",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 12,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0013",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 13,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0014",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 14,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0015",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 15,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0016",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 16,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0017",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 17,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0018",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 18,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0019",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 19,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0020",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 20,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0021",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 21,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0022",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 22,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0023",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 23,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0024",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 24,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0025",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 25,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0026",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 26,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0027",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 27,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0028",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 28,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0029",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 29,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0030",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 30,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0031",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 31,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0032",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 32,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0033",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 33,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0034",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 34,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0035",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 35,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0036",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 36,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0037",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 37,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0038",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 38,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0039",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 39,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0040",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 40,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0041",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 41,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0042",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 42,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0043",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 43,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0044",
+  "expectedOutcome" : "MATCHED_PASS_1",
+  "bankLineId" : 44,
+  "note" : "Clean record: exact UTR + exact amount, within T+1 window."
+}, {
+  "settlementId" : "stl_0045",
+  "expectedOutcome" : "MATCHED_PASS_2",
+  "bankLineId" : 45,
+  "note" : "UTR unusable in bank data; narration has a recoverable fragment + merchant name typo."
+}, {
+  "settlementId" : "stl_0046",
+  "expectedOutcome" : "MATCHED_PASS_2",
+  "bankLineId" : 46,
+  "note" : "UTR unusable in bank data; narration has a recoverable fragment + merchant name typo."
+}, {
+  "settlementId" : "stl_0047",
+  "expectedOutcome" : "MATCHED_PASS_3",
+  "bankLineId" : 47,
+  "note" : "No UTR fragment, unrelated-looking narration referencing payment_id instead."
+}, {
+  "settlementId" : "stl_0048",
+  "expectedOutcome" : "EXCEPTION_FEE_VARIANCE",
+  "bankLineId" : 48,
+  "note" : "Fee charged at 2.3% vs. the 2.0% contracted rate. Amount still matches exactly - audit-rule violation, not a matching failure."
+}, {
+  "settlementId" : "stl_0049",
+  "expectedOutcome" : "EXCEPTION_TIMING_DISCREPANCY",
+  "bankLineId" : 49,
+  "note" : "Bank credit landed T+4 instead of T+1/T+2. UTR + amount are exact, so Pass 1 still matches it - the date-window audit must flag this separately."
+}, {
+  "settlementId" : "stl_chargeback_0050",
+  "expectedOutcome" : "EXCEPTION_UNMATCHED_GATEWAY_RECORD",
+  "bankLineId" : null,
+  "note" : "Chargeback deduction with no UTR and no counterpart bank line in this batch at all."
+}, {
+  "settlementId" : "stl_dup_0051",
+  "expectedOutcome" : "EXCEPTION_DUPLICATE_AMOUNT_AMBIGUITY",
+  "bankLineId" : 50,
+  "note" : "Two settlements share identical amount, date, and no UTR; two bank lines share the same amount, date, and generic narration. Correct behavior is refusing to force-match either pairing."
+}, {
+  "settlementId" : "stl_dup_0052",
+  "expectedOutcome" : "EXCEPTION_DUPLICATE_AMOUNT_AMBIGUITY",
+  "bankLineId" : 51,
+  "note" : "Two settlements share identical amount, date, and no UTR; two bank lines share the same amount, date, and generic narration. Correct behavior is refusing to force-match either pairing."
+} ]
